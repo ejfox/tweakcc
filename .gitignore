@@ -42,3 +42,4 @@ debug.log
 *.temp
 
 *.tsbuildinfo
+package-lock.json
